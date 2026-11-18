@@ -1,6 +1,6 @@
 # Prompt Nav Rail for OpenCode
 
-> Repository: `history_prompt_indicator_for_opencode`
+> Repository: `history_prompt_navigator_for_opencode`
 
 Codex / Antigravity-style **prompt navigation rails** for **OpenCode Desktop**.
 
